@@ -1,0 +1,2 @@
+# Spammer
+Spamming Discord bot.
