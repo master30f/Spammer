@@ -1,6 +1,6 @@
 import discord
 
-token = "Nzg5MTIzMDA1MDkxMTUxODg0.X9teEQ.nVCfDscIkV2Cmer2UsnKm7kofhk"
+token = ""
 
 client = discord.Client()
 client.spamming = {}
